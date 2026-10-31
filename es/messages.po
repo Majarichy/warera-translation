@@ -15817,43 +15817,43 @@ msgstr "El taller se convirtio en una jungla. Le encanta todos, y nadie puede en
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:336
 msgid "Their coworkers"
-msgstr ""
+msgstr "Sus compañeros de trabajo"
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:199
 msgid "Their Luck"
-msgstr ""
+msgstr "Su Suerte"
 
 #: src/components/_economy/employee/employeeStats.tsx:231
 msgid "Their output: every {OUTPUT_DIVISOR} Production banks one point per hour, before bonuses."
-msgstr ""
+msgstr "Su rendimiento: cada {OUTPUT_DIVISOR} de Producción acumula un punto por hora, antes de las bonificaciones."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:125
 msgid "Their output: every {OUTPUT_DIVISOR} Production banks one production point per hour, before bonuses."
-msgstr ""
+msgstr "Su rendimiento: cada {OUTPUT_DIVISOR} de Producción acumula un punto de producción por hora, antes de las bonificaciones."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3398
 msgid "There is no desk. Everyone now suspects everyone of being Gerald."
-msgstr ""
+msgstr "No hay escritorio. Ahora todos sospechan que todos son Gerald."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:537
 msgid "They dig deep and deliver. For now."
-msgstr ""
+msgstr "Hacen un gran esfuerzo y cumplen. Por ahora."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:127
 msgid "They earn a wage from your <0>Money</0>."
-msgstr ""
+msgstr "Ganan un sueldo desde tu <0>Dinero</0>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:551
 msgid "They get through it somehow, and nobody mentions it again."
-msgstr ""
+msgstr "De alguna manera lo superan, y nadie vuelve a mencionarlo."
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:270
 msgid "They keep what they earned."
-msgstr ""
+msgstr "Se quedan con lo que ganaron."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3766
 msgid "They laugh too. {name} and {partnerName} are old friends now, and share a barber."
-msgstr ""
+msgstr "Ellos también se ríen. {name} y {partnerName} ahora son viejos amigos, y comparten barbero."
 
 #: src/components/_economy/employee/EmployeeModal.tsx:655
 msgid "They left the company"
@@ -15865,51 +15865,51 @@ msgstr "Ellos dejaron la empresa."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:827
 msgid "They let it drop, and stay {retirementStayYears, plural, one {# more year} other {# more years}}."
-msgstr ""
+msgstr "Lo dejan pasar y se quedan {retirementStayYears, plural, one {# año más} other {# años más}}."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:598
 msgid "They lose the flip, and their good mood with it."
-msgstr ""
+msgstr "Pierden la apuesta, y su buen humor con él."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2015
 msgid "They make up by the end of the week, as if nothing happened."
-msgstr ""
+msgstr "Se reconcilian al final de la semana, como si no nada hubiera pasado."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:305
 msgid "They never reset."
-msgstr ""
+msgstr "Nunca se reinician."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:628
 msgid "They put it to work on their own tool straight away."
-msgstr ""
+msgstr "Lo ponen a trabajar en su propia herramienta de inmediato."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:421
 msgid "They regenerate {regenPercent}% every hour. Next in <0/>."
-msgstr ""
+msgstr "Se regeneran un {regenPercent}% cada hora. El próximo en <0/>."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:885
 msgid "They shake hands, grudgingly."
-msgstr ""
+msgstr "Se dan la mano, a regañadientes."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:887
 msgid "They talk it out for real. Whatever was between them is over."
-msgstr ""
+msgstr "Hablan de verdad. Lo que sea que hubiera entre ellos se ha terminado."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:538
 msgid "They try, and resent you for asking."
-msgstr ""
+msgstr "Lo intentan, y te guardan rencor por pedírselo."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:722
 msgid "They will hold you to it. In a week, they will be packing."
-msgstr ""
+msgstr "Te tomarán la palabra. En una semana, estarán haciendo las maletas."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:596
 msgid "They win the flip, and the debt with it."
-msgstr ""
+msgstr "Ganan la apuesta, y la deuda con ella."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:116
 msgid "They work for you every hour, even offline."
-msgstr ""
+msgstr "Trabajan para ti cada hora, incluso cuando no estás conectado."
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:139
 msgid "This action will submit your MU bid for this contract."
@@ -15921,7 +15921,7 @@ msgstr "Esta recompensa está reservada solo para ciudadanos nacionales."
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:391
 msgid "This can end with someone leaving your company for good."
-msgstr ""
+msgstr "Esto puede terminar con alguien abandonando tu empresa para siempre."
 
 #: src/components/_economy/manager/ManagerCareButton.tsx:121
 msgid "This company has no employees"
@@ -15929,7 +15929,7 @@ msgstr "Esta empresa no tiene empleados"
 
 #: src/components/_economy/employee/EmployeeList.tsx:204
 msgid "This company is disabled and earns nothing. Once re-enabled, it would earn this much a day."
-msgstr ""
+msgstr "Esta empresa está deshabilitada y no gana nada. Una vez reactivada, ganaría esta cantidad al día."
 
 #: src/components/_economy/company/CompanyTags.tsx:116
 msgid "This company is disabled because the owner reached the company limit."
@@ -15941,11 +15941,11 @@ msgstr "Este país no tiene presidente ni parlamento activo, por lo que puedes t
 
 #: src/components/_political/government/Government.tsx:75
 msgid "This country's government type has no ministers and no congress, only a president and vice president. The president takes over the ministers' powers and they alone vote laws."
-msgstr ""
+msgstr "El tipo de gobierno de este país no tiene ministros ni congreso, solo un presidente y un vicepresidente. El presidente asume los poderes de los ministros y solo ellos votan las leyes."
 
 #: src/components/_political/government/Government.tsx:81
 msgid "This country's government type has no ministers, only a president and vice president. The president takes over the ministers' powers."
-msgstr ""
+msgstr "El tipo de gobierno de este país no tiene ministros, solo un presidente y un vicepresidente. El presidente asume los poderes de los ministros."
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:66
 msgid "This device can't display the map"
@@ -15982,11 +15982,11 @@ msgstr "Se siente bien, ¿no?"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:217
 msgid "this good"
-msgstr ""
+msgstr "este bien"
 
 #: src/components/_economy/company/CompanyChangeItemFormModal.tsx:102
 msgid "This good needs another kind of tool: every tool your employees hold here goes back to your inventory."
-msgstr ""
+msgstr "Este bien necesita otro tipo de herramienta: cada herramienta que tus empleados tengan aquí volverá a tu inventario."
 
 #: src/components/_military/battle/LootSummaryCard.tsx:77
 msgid "This is a summary of the loot you received from this battle. It includes any cases you got as well as the most valuable items from the shared loot pool."
@@ -16002,7 +16002,7 @@ msgstr "Esta es tu empresa"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:207
 msgid "This is your offer, shown like other buyers from your country see it. Buyers from elsewhere add their own country's tax."
-msgstr ""
+msgstr "Esta es tu oferta, mostrada tal como la ven otros compradores de tu país. Los compradores de otros lugares añaden los impuestos de su propio país."
 
 #: src/components/_military/tournament/TournamentTeamTooltip.tsx:88
 msgid "This is your team"
@@ -16010,7 +16010,7 @@ msgstr "Este es tu equipo"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:101
 msgid "This item was already sold or withdrawn."
-msgstr ""
+msgstr "Este objeto ya fue vendido o retirado."
 
 #: src/components/_political/law/LawTypeSelect.tsx:199
 msgid "This law can be abusive and requires 5+ possible voters in the country."
@@ -16028,15 +16028,15 @@ msgstr "Esta ley requiere al menos {minActiveCitizen} ciudadanos activos (de niv
 #. placeholder {0}: cooldownDays ?? 0
 #: src/components/_political/government/Government.tsx:276
 msgid "This member won't be able to be nominated again for {0, plural, one {# day} other {# days}}."
-msgstr ""
+msgstr "Este miembro no podrá ser nominado de nuevo durante {0, plural, one {# día} other {# días}}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:629
 msgid "This no longer applies: someone it was about is gone."
-msgstr ""
+msgstr "Esto ya no aplica: alguien de quien se trataba ya no está."
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:209
 msgid "This player has not connected for days. Until they come back they add no production to the roster and earn nothing."
-msgstr ""
+msgstr "Este jugador no se ha conectado en días. Hasta que regrese, no añade producción al personal y no gana nada."
 
 #: src/components/_social/poll/PollCard.tsx:167
 msgid "This poll is not available."
@@ -16080,7 +16080,7 @@ msgstr "Organiza una fiesta de todos modos"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3654
 msgid "Throw it out"
-msgstr ""
+msgstr "Tirarlo a la basura"
 
 #. placeholder {0}: milestone.tier
 #: src/components/_user/milestone/MilestoneItem.tsx:135
@@ -16178,15 +16178,15 @@ msgstr "a"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:743
 msgid "To be continued"
-msgstr ""
+msgstr "Continuará"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:185
 msgid "To the seller"
-msgstr ""
+msgstr "Para el vendedor"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:183
 msgid "To you, the seller"
-msgstr ""
+msgstr "Para ti, el vendedor"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:246
 msgid "Token Name"
@@ -16206,7 +16206,7 @@ msgstr "Tomo de mareas"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:101
 msgid "Took a job offer from a rival firm."
-msgstr ""
+msgstr "Aceptó una oferta de trabajo de una empresa rival."
 
 #: src/components/_economy/employee/employee.traitMeta.ts:83
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:258
@@ -16218,37 +16218,37 @@ msgstr "Herramienta"
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:465
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:681
 msgid "Tool <0>fully repaired</0>"
-msgstr ""
+msgstr "Herramienta <0>totalmente reparada</0>"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:75
 msgid "Tool given"
-msgstr ""
+msgstr "Herramienta entregada"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:80
 #: src/components/_economy/inventory/Inventory.tsx:684
 msgid "Tool taken back"
-msgstr ""
+msgstr "Herramienta retirada"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:470
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:686
 msgid "Tool: {value} durability"
-msgstr ""
+msgstr "Herramienta: {value} de durabilidad"
 
 #: src/utils/translations.tsx:119
 msgid "Toolbox"
-msgstr "Caja de herramienta"
+msgstr "Caja de herramientas"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:946
 msgid "Toolbox Finds"
-msgstr ""
+msgstr "Cajas de herramientas encontradas"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2211
 msgid "Toolbox found"
-msgstr ""
+msgstr "Caja de herramientas encontrada"
 
 #: src/components/_economy/employee/employeeStats.tsx:340
 msgid "Toolbox per hour"
-msgstr ""
+msgstr "Cajas de herramientas por hora"
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:43
 #: src/components/_economy/inventory/Inventory.tsx:851
@@ -16258,7 +16258,7 @@ msgstr "Herramientas"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:218
 msgid "Tools give a boost to <0>Production</0>. They come out of <1>Toolboxes</1>, found by your employees' Luck."
-msgstr ""
+msgstr "Las herramientas dan un impulso a la <0>Producción</0>. Salen de las <1>Cajas de herramientas</1>, encontradas por la Suerte de tus empleados."
 
 #: src/components/_social/ArticleList.tsx:218
 msgid "Top"
@@ -17499,11 +17499,11 @@ msgstr "Trabajadores"
 
 #: src/pages/companies.tsx:109
 msgid "Workforce"
-msgstr "Plantilla"
+msgstr "Personal"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:115
 msgid "Workforce chart"
-msgstr "Gráfico de plantilla"
+msgstr "Gráfico del personal"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:515
 msgid "Working abroad, an {expat} or a {cosmopolitan}, with at least one coworker."
@@ -18392,7 +18392,7 @@ msgstr "¡Tus misiones semanales han sido reiniciadas! Completa las misiones par
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:526
 msgid "Your workforce"
-msgstr "Tu plantilla"
+msgstr "Tu personal"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:380
 msgid "your@email.com"
