@@ -16304,7 +16304,7 @@ msgstr "Ayın en iyi hediye verenleri"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:399
 msgid "Top of the class: there is much more to train now."
-msgstr "Sınıfının en iyisi: Artık eğitilebilecek bir şey kalmadı."
+msgstr "Sınıfının en iyisi: Daha öğrenilecek çok şey var."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:97
 msgid "Top of the hill"
