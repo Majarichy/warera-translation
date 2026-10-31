@@ -11719,7 +11719,7 @@ msgstr "Eski Dostlar"
 
 #: src/utils/translations.tsx:42
 msgid "Omg, so OP"
-msgstr "Ananı avradını, çok bozuk olm bu"
+msgstr "Dehşet bişey"
 
 #: src/components/_military/mercenaryContract/MercenaryReputationTooltip.tsx:20
 msgid "On contract completion: +1 rep per <0/> paid out."
