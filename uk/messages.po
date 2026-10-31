@@ -1571,7 +1571,7 @@ msgstr "{gender, select, male {Підлити Кевіна разом з ним}
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:611
 msgid "{gender, select, male {While clearing the storeroom, {name} found an old toolbox nobody remembers buying. He is eyeing it.} female {While clearing the storeroom, {name} found an old toolbox nobody remembers buying. She is eyeing it.} other {While clearing the storeroom, {name} found an old toolbox nobody remembers buying, and is eyeing it.}}"
-msgstr "{gender, select, male {Прибираючи на складі, {name} знайшов ящик з інструментами, про який ніхто не пам'ятає. Він придивляється до нього.} female {Прибираючи на складі, {name} знайшла ящик з інструментами, про який ніхто не пам'ятає. Вона придивляється до нього.} other {Прибираючи на складі, {name} знайшло ящик з інструментами, про який ніхто не пам'ятає. Воно придивляється до нього..}}"
+msgstr "{gender, select, male {Прибираючи на складі, {name} знайшов ящик з інструментами, про який ніхто не пам'ятає. Він придивляється до нього.} female {Прибираючи на складі, {name} знайшла ящик з інструментами, про який ніхто не пам'ятає. Вона придивляється до нього.} other {Прибираючи на складі, {name} знайшли ящик з інструментами, про який ніхто не пам'ятає. Вони придивляються до нього.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1649
 msgid "{gender, select, male {You come back with every trick they have. {name} is impressed.} female {You come back with every trick they have. {name} is impressed.} other {You come back with every trick they have. {name} is impressed.}}"
@@ -1705,7 +1705,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:606
 msgid "{named} and {counted}"
-msgstr "{name} та {counted}"
+msgstr "{named} та {counted}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventInbox.tsx:123
 msgid "{names}: decided while you were away"
@@ -1762,7 +1762,7 @@ msgstr "{production} та {mood} при виробництві {good}"
 #: src/components/_layout/LayoutMapUserMenu.tsx:280
 #: src/components/_political/map/MapMenu.tsx:194
 msgid "{quantity, plural, =1 {Wooden case collected!} one {# wooden case collected!} other {# wooden cases collected!}}"
-msgstr "{quantity, plural, =1 {Дерев'яний кейси зібрано!} one {# дерев'янй кейс зібрано!} other {# дерев'яних кейсів зібрано!}}"
+msgstr "{quantity, plural, =1 {Дерев'яний кейс зібрано!} one {# дерев'яний кейс зібрано!} other {# дерев'яних кейсів зібрано!}}"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:208
 msgid "{rareCount, plural, one {# of them is rare or better} other {# of them are rare or better}}"
@@ -2541,7 +2541,7 @@ msgstr "<0>{0}</0> та <1>{1}</1> якщо будь-який співробіт
 #. placeholder {1}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:237
 msgid "<0>{0}</0> and <1>{1}</1> when half or more coworkers are compatriots"
-msgstr "<0>{0}</0> і <1>{1}</1> коли половина або більшеспівробітників є співвітчизниками"
+msgstr "<0>{0}</0> і <1>{1}</1> коли половина або більше співробітників є співвітчизниками"
 
 #. placeholder {0}: -2
 #. placeholder {1}: -10
@@ -2722,7 +2722,7 @@ msgstr "<0>{0}</0> якщо вони не"
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:737
 msgid "<0>{0}</0> when working abroad"
-msgstr "<0>{0}</0> працюючи закордоном"
+msgstr "<0>{0}</0> працюючи за кордоном"
 
 #. placeholder {0}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:305
@@ -2790,7 +2790,7 @@ msgstr "<0>+1</0> до однієї характеристики за кожні
 #. placeholder {0}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:285
 msgid "<0>+100%</0> and <1>{0}</1> when working alone"
-msgstr "<0>+100%</0> та <1>{0}</1> працюючи наодині"
+msgstr "<0>+100%</0> та <1>{0}</1> працюючи наодинці"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:430
 msgid "<0>+15%</0> alongside their friend"
@@ -2806,7 +2806,7 @@ msgstr "<0>+15%</0> за чоловіка-співробітника, макси
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:611
 msgid "<0>+20%</0> after 30 days at the same company"
-msgstr "<0>+20%</0> після 30 днів на тій самій фабриі"
+msgstr "<0>+20%</0> після 30 днів на тій самій фабриці"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:454
 msgid "<0>+20%</0> alongside their sweetheart"
@@ -2830,7 +2830,7 @@ msgstr "<0>+40%</0> маючи інструмент"
 
 #: src/components/_layout/loadingTips.tsx:223
 msgid "<0>Armor</0> and <1>Dodge</1> have diminishing returns: each point is worth a bit less than the one before."
-msgstr "<0>Захист</0> та <1>Ухилення</1> мають спадну віддчау: кожен бал вартує трохи менше, ніж попередній."
+msgstr "<0>Захист</0> та <1>Ухилення</1> мають спадну віддачу: кожен бал вартує трохи менше, ніж попередній."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:547
 msgid "<0>Armor</0> and <1>Dodge</1>: less <2>Health</2> lost."
@@ -3502,7 +3502,7 @@ msgstr "Фабрика з 2 та більше працівниками."
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:526
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:536
 msgid "A company with 3 or more employees at work."
-msgstr "Фабрика з 3 та більше працівниками"
+msgstr "Фабрика з 3 та більше працівниками."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:299
 msgid "A company with 3 or more employees at work. Twice as likely if {handy} or {improviser}."
@@ -3518,7 +3518,7 @@ msgstr "Рівень кімнати відпочинку фабрики відп
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:222
 msgid "A core region of your country: your employees here get +{coreRegionBonusPercent}% production."
-msgstr "Рідний регіон вашої держави: ваші працівники отримають тут +{coreRegionBonusPercent}% до виробництва"
+msgstr "Рідний регіон вашої держави: ваші працівники отримають тут +{coreRegionBonusPercent}% до виробництва."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:340
 msgid "A coworker"
@@ -3728,7 +3728,7 @@ msgstr ""
 
 #: src/pages/region/[regionId]/index.tsx:97
 msgid "A strategic resource has been found in this region, it gives its owner a production and development bonus."
-msgstr "У цьому регіону було знайдено стратегічний ресурс, він надає власнику бонус до виробництва та розвитку."
+msgstr "У цьому регіоні було знайдено стратегічний ресурс, він надає власнику бонус до виробництва та розвитку."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:636
 msgid "A stray cat"
