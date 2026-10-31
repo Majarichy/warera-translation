@@ -14615,7 +14615,7 @@ msgstr "إجتماعي"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:656
 msgid "Social"
-msgstr "اجتماعي"
+msgstr "إجتماعي"
 
 #: src/components/_user/notification/notificationPrefs.categories.ts:166
 msgid "Social & Messages"
