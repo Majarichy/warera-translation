@@ -5644,7 +5644,7 @@ msgstr "Remove todas as características negativas de uma só vez. Apenas para f
 
 #: src/components/_economy/employee/training.frontConfig.tsx:70
 msgid "Clears one bad trait, such as Xenophobe or Burnout."
-msgstr ""
+msgstr "Remove uma característica negativa, como Xenófobo ou Burnout."
 
 #: src/components/_economy/inventory/ConsumeItems.tsx:199
 msgid "Click to consume."
@@ -15628,7 +15628,7 @@ msgstr ""
 
 #: src/components/_economy/employee/TrainingCardList.tsx:118
 msgid "The rarity is rolled once for the whole hand, among the rarities the employee has enough cards in. Management tilts these odds."
-msgstr ""
+msgstr "Em cada treino, é sorteada uma raridade para todas as opções. Só podem sair raridades com cartas suficientes disponíveis, e a Liderança aumenta as hipóteses de obter raridades melhores."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:568
 msgid "The region menu"
@@ -17362,7 +17362,7 @@ msgstr "O que as batalhas em que estás envolvido te renderam até ao momento (a
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:545
 msgid "What your employees' Luck should find in a day. Only hours that bank production count."
-msgstr ""
+msgstr "stimativa diária do que os teus funcionários podem encontrar por dia. Só procuram enquanto estão a produzir, por isso não encontram nada se a empresa estiver desativada ou o Armazém estiver cheio. Funcionários com Desenrascado continuam a procurar mesmo com o Armazém cheio."
 
 #: src/components/_common/GameRules.tsx:124
 msgid "While data collection and display tools that use the official public API are allowed, for any other development or data access, please contact the staff team directly."
@@ -18268,7 +18268,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:88
 msgid "Your Management {value}"
-msgstr ""
+msgstr "A tua Gestão {value}"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:303
 msgid "Your milestones"
