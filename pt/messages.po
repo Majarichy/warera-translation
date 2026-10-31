@@ -16499,7 +16499,7 @@ msgstr "Em cada treino, são apresentadas {handSize} opções da mesma raridade.
 
 #: src/components/_economy/employee/TrainingHistory.tsx:244
 msgid "Training history"
-msgstr "msgid "Training history""
+msgstr "msgid "Training history"
 
 #: src/components/_economy/employee/employeeTags.tsx:58
 #: src/components/_economy/employee/EmployeeTooltip.tsx:144
