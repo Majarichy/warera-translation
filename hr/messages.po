@@ -406,7 +406,7 @@ msgstr "{count, plural, one {<0>Pošaljite <1/> poruku</0>} other {<2>Pošaljite
 
 #: src/components/_user/mission/mission.frontConfig.tsx:790
 msgid "{count, plural, one {<0>Take care of an employee <1/> time in the company you manage</0>} other {<2>Take care of an employee <3/> times in the company you manage</2>}}"
-msgstr "{count, plural, one {<0>Zbrinite zaposlenika <1/> put u kompaniji kojom upravljate</0>} other {<2>Zbrinite zaposlenike <3/> puta u kompaniji kojom upravljate</2>}}"
+msgstr "{count, plural, one {<0>Motivirajte zaposlenika <1/> put u kompaniji kojom upravljate</0>} other {<2>Motivirajte zaposlenike <3/> puta u kompaniji kojom upravljate</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:435
 msgid "{count, plural, one {<0>Tip <1/> article</0>} other {<2>Tip <3/> articles</2>}}"
@@ -1231,15 +1231,15 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2824
 msgid "{gender, select, male {Buy him a notebook} female {Buy her a notebook} other {Buy them a notebook}}"
-msgstr ""
+msgstr "{gender, select, male {Kupite mu bilježnicu} female {Kupite joj bilježnicu} other {Kupite im bilježnicu}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1619
 msgid "{gender, select, male {Confront him} female {Confront her} other {Confront them}}"
-msgstr ""
+msgstr "{gender, select, male {Suočite se s njim} female {Suočite se s njom} other {Suočite se s njima}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1050
 msgid "{gender, select, male {Do an impression of him} female {Do an impression of her} other {Do an impression of them}}"
-msgstr ""
+msgstr "{gender, select, male {Oponašaj ga} female {Oponašaj ju} other {Oponašajte ih}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2521
 msgid "{gender, select, male {Enemy planes dropped propaganda leaflets all over the workshop. {name} is reading one with great interest.} female {Enemy planes dropped propaganda leaflets all over the workshop. {name} is reading one with great interest.} other {Enemy planes dropped propaganda leaflets all over the workshop. {name} is reading one with great interest.}}"
@@ -1347,7 +1347,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:239
 msgid "{gender, select, male {Let him finish} female {Let her finish} other {Let them finish}}"
-msgstr ""
+msgstr "{gender, select, male {Neka on završi} female {Neka ona završi} other {Neka oni završe}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1534
 msgid "{gender, select, male {Let him fix it} female {Let her fix it} other {Let them fix it}}"
@@ -1367,7 +1367,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1109
 msgid "{gender, select, male {Make a chart of his chart-making} female {Make a chart of her chart-making} other {Make a chart of their chart-making}}"
-msgstr ""
+msgstr "{gender, select, male {Napravite graf o njegovim grafovima} female {Napravite graf o njezinim grafovima} other {Napravite graf o njihovim grafovima}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2955
 msgid "{gender, select, male {Make him work anyway} female {Make her work anyway} other {Make them work anyway}}"
@@ -2312,7 +2312,7 @@ msgstr "<0/> je izbacio <1/> iz kanala"
 #: src/components/_economy/employee/employeeStats.tsx:750
 #: src/components/_economy/employee/employeeStats.tsx:843
 msgid "<0/> left"
-msgstr "<0/> napušta"
+msgstr "preostalo <0/>"
 
 #. placeholder {0}: data.company && <CompanyNameById companyId={data.company} />
 #: src/components/_user/notification/notification.frontConfig.tsx:609
@@ -2756,7 +2756,7 @@ msgstr "<0>{activeCompaniesCount}/{0}</0> Kompanija"
 
 #: src/components/_user/user/EcoSkillEffects.tsx:104
 msgid "<0>{bonus}</0> employee production, +{eventOdds}% event odds<1/>Card odds: <2/>"
-msgstr ""
+msgstr "<0>{bonus}</0> proizvodnje za zaposlenike, +{eventOdds}% vjerojatnost događaja<1/>Šanse za izvući karte: <2/> ishod obuke."
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:47
 msgid "<0>{depositBonus}</0> from deposit resources in <1/>."
@@ -3345,7 +3345,7 @@ msgstr "3★ Časnički Namjesnik"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:289
 msgid "30 days or more in the company. Twice as likely for an {anchor} or a {veteran}."
-msgstr ""
+msgstr "Događaj je moguć: kad je zaposlenik 30 dana ili više u kompaniji. Dvostruka šansa događaja ako ima osobine {anchor} ili {veteran}."
 
 #: src/components/_common/GameRules.tsx:134
 msgid "4. Bug Exploits"
@@ -3397,15 +3397,15 @@ msgstr "7. Ponašanje u Zajednici"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:341
 msgid "A {climber} or a {primaDonna}, after 7 days in the company."
-msgstr ""
+msgstr "Događaj je moguć: poslije 7 dana u kompaniji, ako je zaposlenik {climber} ili {primaDonna}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:580
 msgid "A {comic} and a coworker, neither of them with an {oldFriends} or {nemesis} trait yet."
-msgstr ""
+msgstr "Događaj je moguć: kad jedan od zaposlenika ima osobinu {comic}, a nijedan od njih još nema osobine {oldFriends} ili {nemesis}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:248
 msgid "A {comic} with at least one coworker."
-msgstr ""
+msgstr "Događaj je moguć: kad je zaposlenik {comic} sa barem jednim suradnikom."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:484
 msgid "A {diamond} or a {lateBloomer}, with training potential left."
@@ -3417,15 +3417,15 @@ msgstr "Događaj je moguć: kad zaposlenik ima efekte osobine {foreman} sa surad
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:425
 msgid "A {greedy} or a {climber} with at least one coworker."
-msgstr "Događaj moguć: ako su barem dva zaposlenika s osobinama {greedy} ili {climber}."
+msgstr "Događaj je moguć: ako su barem dva zaposlenika s osobinama {greedy} ili {climber}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:365
 msgid "A {loner} and a {sociable} coworker, neither of them with an {oldFriends} or {nemesis} trait yet."
-msgstr ""
+msgstr "Događaj je moguć: kad je jedan suradnik {loner}, a drugi {sociable} i nijedan od njih još nema osobine {oldFriends} ili {nemesis}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:540
 msgid "A {luckyCharm} with at least one coworker."
-msgstr ""
+msgstr "Događaj je moguć: kad osobina {luckyCharm} ima učinak na barem jednog suradnika."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:228
 msgid "A {mentor} or an employee with Production {high} or more, and a coworker with Production {low} or less and training potential left."
@@ -3433,23 +3433,23 @@ msgstr "Događaj je moguć: kad je zaposlenik {mentor} sa barem {high} proizvodn
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:256
 msgid "A {primaDonna} with at least one coworker."
-msgstr ""
+msgstr "Događaj je moguć: kad osobina {primaDonna} ima učinak na barem jednog suradnika."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:546
 msgid "A {scavenger} or a {salvager}."
-msgstr ""
+msgstr "Događaj je moguć: kad je zaposlenik {scavenger} ili {salvager}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:274
 msgid "A {taxShy} or a {statist}."
-msgstr ""
+msgstr "Događaj je moguć: kad je zaposlenik {taxShy} ili {statist}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:523
 msgid "A {trainer} with at least one coworker."
-msgstr ""
+msgstr "Događaj je moguć: kad je zaposlenik {trainer} sa barem jednim suradnikom."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:509
 msgid "A {veteran} with at least one coworker."
-msgstr ""
+msgstr "Događaj je moguć: kad je zaposlenik {veteran} sa barem jednim suradnikom."
 
 #. placeholder {0}: ts.cocain
 #: src/components/_layout/loadingTips.tsx:150
@@ -3495,18 +3495,18 @@ msgstr "Građanski rat započet od <0/> u <1/>"
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:161
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:533
 msgid "A company with 2 or more employees at work."
-msgstr "Događaj moguć: ako kompanija ima 2 ili više zaposlenika koji rade."
+msgstr "Događaj je moguć: ako kompanija ima 2 ili više zaposlenika koji rade."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:409
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:493
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:526
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:536
 msgid "A company with 3 or more employees at work."
-msgstr "Događaj moguć: ako kompanija ima 3 ili više zaposlenika koji rade."
+msgstr "Događaj je moguć: ako kompanija ima 3 ili više zaposlenika koji rade."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:299
 msgid "A company with 3 or more employees at work. Twice as likely if {handy} or {improviser}."
-msgstr ""
+msgstr "Događaj je moguć: kad u kompaniji radi 3 ili više zaposlenika. Dvostruka šansa događaja ako je jedan od zaposlenika {handy} ili {improviser}."
 
 #: src/components/_layout/loadingTips.tsx:321
 msgid "A company with a full storage can't be worked and makes its employees unhappy. Produce often, or upgrade its Storage."
@@ -3946,7 +3946,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2747
 msgid "Adopt the ramp"
-msgstr ""
+msgstr "Usvojite rampu"
 
 #: src/utils/translations.tsx:215
 msgid "Advanced Boots"
@@ -3986,19 +3986,19 @@ msgstr "Dob i radni staž"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:335
 msgid "Aged 28 to 50, hired 7 days ago or more."
-msgstr "Od 28. do 50. godine, zaposleni prije 7 dana ili duže."
+msgstr "Događaj je moguć: su zaposleni od 28. do 50. godine, zaposleni prije 7 dana ili duže."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:129
 msgid "Aged 40 or younger, with training potential left."
-msgstr "Do 40. godine sa potencijalom za obuku."
+msgstr "Događaj je moguć: kad su zaposleni do 40. godine sa potencijalom za obuku."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:183
 msgid "Aged 45 to 55."
-msgstr "Od 45. do 55. godine."
+msgstr "Događaj je moguć: kad je zaposlenik od 45. do 55. godine."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2448
 msgid "Air raid"
-msgstr ""
+msgstr "Zračni napad"
 
 #: src/components/_economy/inventory/ItemGridFilters.tsx:183
 #: src/components/_economy/inventory/ItemGridFilters.tsx:221
@@ -4157,7 +4157,7 @@ msgstr "Već ste zaposleni"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:188
 msgid "Always, for every employee who turns {age}, then again every {every} while they stay. Each year past {age} takes {oddsPerYear}% off the odds of keeping them."
-msgstr ""
+msgstr "Događaj je moguć: za svakog zaposlenika koji napuni {age}. godinu i onda ponovo svakih {every} ako odluče ostati. Svaka iduća godina poslije {age} oduzima {oddsPerYear}% šanse da ostanu u kompaniji."
 
 #: src/utils/translations.tsx:263
 msgid "Ambrosia Pan"
@@ -4292,7 +4292,7 @@ msgstr "Postavke aplikacije"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:443
 msgid "Appeal to their loyalty"
-msgstr ""
+msgstr "Apelirajte na njihovu lojalnost"
 
 #: src/pages/user/[userId]/settings.tsx:99
 msgid "Appearance"
@@ -4680,11 +4680,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1386
 msgid "Ban politics at work"
-msgstr ""
+msgstr "Zabranite politiku na radnom mjestu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2661
 msgid "Ban sandwiches near the machine"
-msgstr ""
+msgstr "Zabranite sendviče pored stroja"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1849
 msgid "Ban soup"
@@ -4692,11 +4692,11 @@ msgstr "Zabranite juhu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3362
 msgid "Ban the club"
-msgstr ""
+msgstr "Zabranite klub"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2776
 msgid "Ban the ramp"
-msgstr ""
+msgstr "Zabranite rampu"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:105
 msgid "Band of Brothers"
@@ -5217,7 +5217,7 @@ msgstr "Link do Članka Kampanje (opcionalno)"
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:528
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:530
 msgid "Can happen to anyone."
-msgstr ""
+msgstr "Događaj je moguć: bilokad i bilo kome."
 
 #: src/components/_political/govType/govType.frontConfig.tsx:453
 msgid "Can't have a sworn enemy"
@@ -6975,7 +6975,7 @@ msgstr "Pad prenisko i mogu dati otkaz."
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:219
 msgid "Durability {durability}/{maxDurability}"
-msgstr "Istrošenost {durability}/{maxDurability}"
+msgstr "Trajnost {durability}/{maxDurability}"
 
 #: src/components/_social/poll/PollEditorModal.tsx:245
 msgid "Duration"
@@ -6995,7 +6995,7 @@ msgstr "Svaka iduća razina otključava novog zaposlenika."
 
 #: src/components/_user/user/EcoSkillEffects.tsx:87
 msgid "Each level gives your employees <0>{perPoint}</0> production, +{eventOddsPerLevel}% event odds and rarer training cards."
-msgstr ""
+msgstr "Upravljanje za svaki bod zaposlenicima donosi <0>{perPoint}</0> proizvodnje, povećava vjerojatnost ishoda događaja za {eventOddsPerLevel}% i omogućuje rjeđe kartice za obuku."
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:181
 msgid "Each level of your Management moves {MOVED_PER_LEVEL}% of the draws from Common to the rarer cards."
@@ -7828,7 +7828,7 @@ msgstr "Borba za vlastitu državu vam daje +{patrioticBonusPercent}% štete. Bit
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1130
 msgid "File it away"
-msgstr ""
+msgstr "Stavite u arhiv"
 
 #: src/components/_economy/transaction/TransactionList.tsx:143
 msgid "Filter by transaction type"
@@ -8033,7 +8033,7 @@ msgstr "Kovački Čekić"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2723
 msgid "Forget you heard it"
-msgstr ""
+msgstr "Zaboravite da ste išta čuli"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:479
 msgid "Forgets their experience in {good}"
@@ -8095,11 +8095,11 @@ msgstr "Gubiš pare brže nego što misliš."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2637
 msgid "Fund proper research"
-msgstr ""
+msgstr "Naručite istraživački rad"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:297
 msgid "Fund the idea"
-msgstr ""
+msgstr "Pretvorite ideju u stvarnost"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:275
 msgid "Fur Boots"
@@ -8573,7 +8573,7 @@ msgstr "Hamster Tenk"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:258
 msgid "Hand over a toolbox and do it properly"
-msgstr ""
+msgstr "Dodaj kutiju s alatom i popravi kako spada."
 
 #: src/components/_economy/employee/employee.traitMeta.ts:86
 msgid "Handy"
@@ -8689,7 +8689,7 @@ msgstr "Neka vaši zaposlenici pronađu <0/>"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:938
 msgid "Have your employees make <0/>"
-msgstr "Neka vaši zaposlenici generiraju <0/> poena proizvodnje"
+msgstr "Neka vaši zaposlenici generiraju <0/>"
 
 #: src/components/_other/upgrade/upgrade.frontConfig.tsx:112
 msgid "Headquarters"
@@ -8712,7 +8712,7 @@ msgstr "Kaciga"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2800
 msgid "Help decipher it"
-msgstr ""
+msgstr "Pomognite u dekripciji"
 
 #: src/components/_military/mu/MuMemberList.tsx:375
 msgid "Help for Mu"
@@ -8819,7 +8819,7 @@ msgstr "Udaraj za svoju država dok vlada daje {0}% efikasnost plijena."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:415
 msgid "Holding a tool worn down to 40 durability or less. Twice as likely if {jinx} or {handy}."
-msgstr "Događaj je moguć: kad zaposlenik drži alat čija je istrošenost manja od 40, a dvostruka šansa ako uz alat ima osobine {jinx} ili {handy}."
+msgstr "Događaj je moguć: kad zaposlenik drži alat čija je trajnost manja od 40, a dvostruka šansa ako uz alat ima osobine {jinx} ili {handy}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:108
 msgid "Holding a tool worn down to 50 durability or less. Twice as likely if {handy}."
@@ -8831,7 +8831,7 @@ msgstr "Događaj je moguć: kad zaposlenik drži alat i ima osobine {handy} ili 
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:307
 msgid "Holding a tool. Twice as likely for a {gambler}."
-msgstr ""
+msgstr "Događaj je moguć: kad zaposlenik koristi alat. Dvostruka šansa događaja ako je zaposlenik {gambler}."
 
 #: src/components/_military/mu/MuHeader.tsx:149
 #: src/components/_military/tournament/TournamentHeader.tsx:145
@@ -9332,7 +9332,7 @@ msgstr "Nastavi tražiti tu Epsku opremu."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2648
 msgid "Keep feeding it sandwiches"
-msgstr ""
+msgstr "Nastavite ga hraniti sendvičima"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:400
 msgid "Keep fighting!"
@@ -9608,7 +9608,7 @@ msgstr "Legendarne Hlače"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:574
 msgid "Lend the money"
-msgstr ""
+msgstr "Posudite mu novac"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1877
 msgid "Let {partnerName} keep trying"
@@ -9616,11 +9616,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3613
 msgid "Let it be"
-msgstr ""
+msgstr "Neka bude"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3811
 msgid "Let it escalate"
-msgstr ""
+msgstr "Pustite da eskalira"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2579
 msgid "Let it flow"
@@ -9640,35 +9640,35 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1659
 msgid "Let it slide"
-msgstr ""
+msgstr "Pusti neka prođe"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2886
 msgid "Let it stay a hobby"
-msgstr ""
+msgstr "Neka ostane samo hobi"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3917
 msgid "Let Kevin grow"
-msgstr ""
+msgstr "Pustite da Kevin naraste"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1012
 msgid "Let the deadline pass"
-msgstr ""
+msgstr "Neka rok prođe"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1760
 msgid "Let the kid help"
-msgstr ""
+msgstr "Neka klinac pomogne"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:350
 msgid "Let the streak run"
-msgstr ""
+msgstr "Pusti neka traje"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:316
 msgid "Let them experiment on company time"
-msgstr ""
+msgstr "Pustite ih da eksperimentiraju nauštrb rada"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:472
 msgid "Let them go, for a fee"
-msgstr ""
+msgstr "Pustite ih, za naknadu"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:625
 msgid "Let them keep it"
@@ -9680,7 +9680,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:664
 msgid "Let them volunteer"
-msgstr ""
+msgstr "Neka volontiraju"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:935
 msgid "Lets every coworker train <0>2</0> times a day"
@@ -10088,7 +10088,7 @@ msgstr "Maršal"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:432
 msgid "Match the offer"
-msgstr ""
+msgstr "Uskladite ponudu"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:118
 msgid "Max equipment rarity"
@@ -11580,7 +11580,7 @@ msgstr "Nije ni u jednom savezu"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2839
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2897
 msgid "Not now"
-msgstr ""
+msgstr "Ne sada"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:821
 msgid "Not now, ask again in {retirementStayYears, plural, one {# year} other {# years}}"
@@ -11600,11 +11600,11 @@ msgstr ""
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:213
 msgid "not usable in this company"
-msgstr ""
+msgstr "nije moguće koristit u ovoj kompaniji"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:232
 msgid "Not usable in this company"
-msgstr ""
+msgstr "Nije moguće koristit u ovoj kompaniji"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2791
 msgid "Notes on an arm"
@@ -11810,7 +11810,7 @@ msgstr "Događaj je moguć: kad je zaposlenik {stockpiler}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:505
 msgid "Only an {earlyBloomer}."
-msgstr ""
+msgstr "Događaj je moguć: kad je zaposlenik samo {earlyBloomer}."
 
 #: src/components/_social/poll/PollCard.tsx:232
 msgid "Only citizens of <0/> can vote."
@@ -11952,7 +11952,7 @@ msgstr "Naredba uspješno povučena!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:273
 msgid "Order the tool put back together"
-msgstr ""
+msgstr "Naredite da se alat popravi"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:83
 msgid "Orders"
@@ -12243,27 +12243,27 @@ msgstr "smanjenje plaće u tijeku"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1450
 msgid "Pay for a correction"
-msgstr ""
+msgstr "Platite za ispravak"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2003
 msgid "Pay for a dinner for two"
-msgstr ""
+msgstr "Platite večeru za dvoje"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:712
 msgid "Pay for a short visit home"
-msgstr ""
+msgstr "Platite za kratki posjet kući"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:703
 msgid "Pay for a trip home"
-msgstr ""
+msgstr "Platite za put doma"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2863
 msgid "Pay for proper lessons"
-msgstr ""
+msgstr "Platite za odgovarajuće lekcije"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:394
 msgid "Pay for the course"
-msgstr ""
+msgstr "Platite za tečaj"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:152
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:120
@@ -12272,11 +12272,11 @@ msgstr "Iznos za svaki poen upravljanja"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2204
 msgid "Pay raised"
-msgstr ""
+msgstr "Plaća povišena"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2277
 msgid "Pay the “inspection fee”"
-msgstr ""
+msgstr "Platite “naknadu inspekcije”"
 
 #: src/pages/shop/index.tsx:48
 msgid "Payment successful! Thanks for supporting the game <3"
@@ -12428,7 +12428,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1101
 msgid "Pin it up"
-msgstr ""
+msgstr "Zakvačite grafikon"
 
 #: src/components/_social/Article.tsx:306
 #: src/components/_social/PinArticleModal.tsx:70
@@ -13052,19 +13052,19 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:329
 msgid "Rare. Can happen to anyone, twice as likely while the company's region is under attack."
-msgstr ""
+msgstr "Događaj je moguć: bilo kome i bilokad, dvostruka šansa događaja ako je regija u kojoj je smještena kompanija pod napadom."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:450
 msgid "Rare. Hired 14 days ago or more, with happiness {mood} or more and training potential left."
-msgstr ""
+msgstr "Događaj je moguć: kad zaposlenik ima {mood} zadovoljstva i ako je zaposlen prije barem 14 dana sa preostalim prilikama za obuku."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:239
 msgid "Rare. Someone hired 7 days ago or more who is {craftsman}, {specialist} or {handy}, or has 15 days of experience in the company's good, if a tool exists for that good."
-msgstr ""
+msgstr "Događaj je moguć: kad je zaposlenik {craftsman}, {specialist} ili {handy} s 15 dana iskustva u radu s proizvodom kompanije i ako postoji alat za taj tip proizvoda."
 
 #: src/components/_economy/employee/employeeStats.tsx:346
 msgid "Rare+ training card"
-msgstr ""
+msgstr "Rijetka+ karta za obuku"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:175
 msgid "Rate"
@@ -13577,7 +13577,7 @@ msgstr "Prijavi ime"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2704
 msgid "Report the leak to the rival"
-msgstr ""
+msgstr "Prijavite curenje informacija suparniku"
 
 #: src/components/_user/user/UserDropdown.tsx:302
 msgid "Report user"
@@ -13807,7 +13807,7 @@ msgstr "Nagrada"
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:241
 #: src/components/_other/tour/TutorialStep.tsx:602
 msgid "Reward claimed"
-msgstr ""
+msgstr "Nagrada preuzeta"
 
 #: src/utils/translations.tsx:24
 msgid "Rifle"
@@ -13815,7 +13815,7 @@ msgstr "Puška"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:635
 msgid "Right after you pick {answer} in {source}."
-msgstr ""
+msgstr "Događaj je moguć: nakon što izaberete {answer} u {source}."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:562
 msgid "Right-click any region on the map to open its menu."
@@ -13986,7 +13986,7 @@ msgstr ""
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:548
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1457
 msgid "Say nothing"
-msgstr ""
+msgstr "Recite ništa"
 
 #: src/components/_economy/employee/employeeStats.tsx:213
 msgid "Scales output, not the stat"
@@ -14202,7 +14202,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:370
 msgid "Send them home to rest"
-msgstr ""
+msgstr "Pošaljite ih doma na zasluženi odmor"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:526
 msgid "Send them to a doctor"
@@ -14575,7 +14575,7 @@ msgstr "Uskoro nešto slijedi"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:1017
 msgid "Something happens to an employee, or to two coworkers, and you choose what to do: up to {maxPerDay} a day. Left unanswered, an event picks its “If ignored” answer after {expires}. The odds depend on the employee and your skills, and show when it happens."
-msgstr ""
+msgstr "Nešto se dogodi zaposleniku ili kolegama pa biraš što ćeš učiniti najviše {maxPerDay} puta dnevno. Šanse ishoda ovise o vašim, i vještinama zaposlenika. U slučaju da ne izaberete opciju nakon {expires} događaj će automatski izabrati opciju „Ako se zanemari”."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:609
 msgid "Something in the storeroom"
@@ -15287,19 +15287,19 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:167
 msgid "The company's region is under attack, and the employee is a citizen of the country holding it, a {patriot} or a {nationalist}."
-msgstr ""
+msgstr "Događaj je moguć: kad je regija u kojoj je smještena kompanija pod napadom, a zaposlenik u njoj iste nacionalnosti s {patriot} ili {nationalist} osobinom."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:434
 msgid "The company's region is under attack, with 2 or more employees at work."
-msgstr ""
+msgstr "Događaj je moguć: kad je regija u kojoj je smještena kompanija s 2 ili više zaposlenika u radu pod napadom."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:431
 msgid "The company's region is under attack."
-msgstr ""
+msgstr "Događaj je moguć: kad je regija u kojoj je smještena kompanija pod napadom."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:441
 msgid "The company's region is under attack. Twice as likely for a {cosmopolitan}."
-msgstr ""
+msgstr "Događaj je moguć: kad je regija u kojoj je smještena kompanija pod napadom. Dvostruka šansa događaja ako zaposlenik ima {cosmopolitan} osobinu."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1239
 msgid "The compliment"
@@ -16232,7 +16232,7 @@ msgstr "Alat vraćen"
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:470
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:686
 msgid "Tool: {value} durability"
-msgstr "Alat: {value} istrošenost"
+msgstr "Alat: {value} trajnost"
 
 #: src/utils/translations.tsx:119
 msgid "Toolbox"
@@ -16258,7 +16258,7 @@ msgstr "Alati"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:218
 msgid "Tools give a boost to <0>Production</0>. They come out of <1>Toolboxes</1>, found by your employees' Luck."
-msgstr ""
+msgstr "Alate je moguće pronaći u <1>kutijama s alatom</1> i oni povećavaju produktivnost <0>proizvodnje</0> zaposlenika."
 
 #: src/components/_social/ArticleList.tsx:218
 msgid "Top"
@@ -16594,7 +16594,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:376
 msgid "Two coworkers hired 7 days ago or more, with happiness {mood} or more and at most 15 years apart, neither of them with a {sweethearts} trait yet, and not each other's {nemesis}."
-msgstr ""
+msgstr "Događaj je moguć: kad dva suradnika zaposlena prije 7 dana ili više, sa barem {mood} zadovoljstva i s razlikom od 15 godina, nemaju još osobini {sweethearts} i nisu jedno drugom {nemesis}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:202
 msgid "Two coworkers with happiness {mood} or more, neither of them with an {oldFriends} or {nemesis} trait yet. Twice as likely if one is {sociable} or {comic}."
@@ -16602,16 +16602,16 @@ msgstr "Događaj je moguć: kad su dva zaposlenika sa barem {mood} zadovoljstva 
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:587
 msgid "Two coworkers, in a company with 3 or more employees at work."
-msgstr ""
+msgstr "Događaj je moguć: kad u kompaniji rade 3 ili više zaposlenika."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:559
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:569
 msgid "Two coworkers, neither of them with an {oldFriends} or {nemesis} trait yet."
-msgstr ""
+msgstr "Događaj je moguć: kad dva suradnika nemaju još osobine {oldFriends} ili {nemesis}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:353
 msgid "Two coworkers, neither of them with an {oldFriends} or {nemesis} trait yet. Twice as likely if one is {rival}, {envious} or {primaDonna}."
-msgstr ""
+msgstr "Događaj je moguć: kad dva suradnika  još nemaju osobine {oldFriends} ili {nemesis}. Dvostruka šansa događaja ako je jedan od njih {rival}, {envious} ili {primaDonna}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:217
 msgid "Two coworkers, when one of them is {bully}, {rival}, {xenophobe} or {envious}, is the other's {nemesis}, or has happiness {mood} or less."
@@ -16814,7 +16814,7 @@ msgstr "Koristite <0/>"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2685
 msgid "Use it"
-msgstr ""
+msgstr "Iskoristite za sebe"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:758
 msgid "Use Pills"
@@ -17346,7 +17346,7 @@ msgstr "Bravo! Ovo je vaša nagrada."
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:243
 msgid "What a day of the extra production this tool gives is worth at the market value of a point. An estimate: what you really earn depends on what you make and the price you sell it at."
-msgstr ""
+msgstr "Vrijednost dodatne proizvodnje koju ovaj alat omogući u jednom danu, izračunata prema tržišnoj vrijednosti jednog boda. Riječ je o procjeni: stvarna zarada ovisi o tome što proizvodite i po kojoj cijeni to prodajete."
 
 #: src/components/_social/poll/PollEditorModal.tsx:188
 msgid "What do you want to ask?"
@@ -17507,11 +17507,11 @@ msgstr "Grafikon radne snage"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:515
 msgid "Working abroad, an {expat} or a {cosmopolitan}, with at least one coworker."
-msgstr ""
+msgstr "Događaj je moguć: kad je zaposlenik zaposlen u inozemstvu sa osobinama {expat} ili {cosmopolitan} i u kompaniji s još jednim suradnikom"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:177
 msgid "Working abroad, with happiness {mood} or less. Always possible abroad for a {homesick}, and twice as likely."
-msgstr ""
+msgstr "Događaj je moguć: kad zaposlenik radi u inozemstvu i ima do {mood} zadovoljstva. Dvostruka šansa događaja ako je zaposlenik iz inozemstva i {homesick}."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:106
 msgid "Working fills its <0>Production</0> bar."
