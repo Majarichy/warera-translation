@@ -7006,7 +7006,7 @@ msgstr "بأناقة قاتلة"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:44
 msgid "Drill"
-msgstr "مثقاب"
+msgstr "تمرين"
 
 #: src/components/_economy/employee/employeeStats.tsx:481
 msgid "Drops too low and they can quit."
@@ -8000,7 +8000,7 @@ msgstr "معزز"
 
 #: src/components/_economy/employee/employee.traitMeta.ts:137
 msgid "Flight Risk"
-msgstr "خطر الطيران"
+msgstr "عرضة للاستقالة"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:391
 msgid "Focus on you"
@@ -9533,7 +9533,7 @@ msgstr "اضحك على الأمر"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1043
 msgid "Laugh along"
-msgstr "جارِهم الضحك"
+msgstr "شاركهم الضحك"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:49
 msgid "Launch council election"
@@ -9840,7 +9840,7 @@ msgstr "خط"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:152
 msgid "Listed"
-msgstr "مدرج"
+msgstr "معروض للبيع"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3238
 msgid "Listen to the whole thing"
@@ -10104,7 +10104,7 @@ msgstr "ايقونات الخريطة"
 
 #: src/components/_layout/LayoutOptions.tsx:162
 msgid "Map textures"
-msgstr "أنسجة الخريطة"
+msgstr "شكل الخريطة"
 
 #: src/components/_economy/market/MarketHeader.tsx:38
 #: src/components/_layout/LayoutMenu.tsx:179
@@ -11211,7 +11211,7 @@ msgstr "لا توجد مكافأة تحالف: عضوية الدولة الحل�
 
 #: src/components/_military/battle/BattleDamageBonuses.tsx:96
 msgid "No alliance bonus: your country's membership is suspended for unpaid alliance maintenance."
-msgstr "لا توجد اضرار اضافية تحالف: عضوية دولتك معلقة بسبب عدم دفع تكاليف التحالف"
+msgstr "لا توجد مكافاة اضرار اضافية للتحالف: عضوية دولتك معلقة بسبب عدم دفع تكاليف التحالف"
 
 #: src/components/_political/allianceLaw/AllianceLawList.tsx:50
 msgid "No alliance laws yet"
@@ -11995,11 +11995,11 @@ msgstr "أو"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:236
 msgid "Or swap with"
-msgstr "أو استبدله بـ"
+msgstr "أو استبدله مع"
 
 #: src/components/_military/order/BattleOrderTags.tsx:28
 msgid "Order"
-msgstr "ترتيب"
+msgstr "اوامر المعركة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3307
 msgid "Order a crate for everyone"
@@ -16835,7 +16835,7 @@ msgstr "تحديث المعلومات"
 
 #: src/components/_social/PinArticleModal.tsx:107
 msgid "Update pin"
-msgstr "تحديث الدبوس"
+msgstr "تحديث التثبيت للمقالة"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:581
 msgid "Upgrade a company"
@@ -17249,7 +17249,7 @@ msgstr "المشاهدات"
 #: src/components/_political/election/Election.tsx:287
 #: src/components/_user/mission/mission.frontConfig.tsx:678
 msgid "Vote"
-msgstr "صوت"
+msgstr "تصويت"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:679
 msgid "Vote in an election"
