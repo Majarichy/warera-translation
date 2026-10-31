@@ -5186,15 +5186,15 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3804
 msgid "Call a ceasefire"
-msgstr ""
+msgstr "Закликати до перемир'я"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3046
 msgid "Call a fortune teller"
-msgstr ""
+msgstr "Покликати гадалку"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3150
 msgid "Call a technician"
-msgstr ""
+msgstr "Покликати техніка"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1583
 msgid "Call an exorcist"
@@ -5206,7 +5206,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3691
 msgid "Call the firefighters"
-msgstr ""
+msgstr "Подзвонити пожежникам"
 
 #: src/components/_political/election/CandidateFormModal.tsx:67
 msgid "Campaign Article Link (optional)"
@@ -5217,7 +5217,7 @@ msgstr "Посилання на статтю з програмою (за баж�
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:528
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:530
 msgid "Can happen to anyone."
-msgstr "Може статись будь з ким."
+msgstr "Може статись з ким завгодно."
 
 #: src/components/_political/govType/govType.frontConfig.tsx:453
 msgid "Can't have a sworn enemy"
