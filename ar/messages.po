@@ -13601,8 +13601,8 @@ msgstr "إعادة تسمية التحالف"
 
 #. placeholder {0}: data.newName
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:127
-msgid "Rename alliance to \"{0}\
-msgstr "إعادة تسمية التحالف إلى \"{0}\
+msgid "Rename alliance to \"{0}\""
+msgstr "إعادة تسمية التحالف إلى \"{0}\""
 
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:66
 #: src/components/_economy/company/CompanyRenameFormModal.tsx:82
