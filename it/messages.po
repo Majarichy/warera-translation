@@ -8819,7 +8819,7 @@ msgstr "Combattere per il proprio paese mentre si è nel governo dà {0}% di eff
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:415
 msgid "Holding a tool worn down to 40 durability or less. Twice as likely if {jinx} or {handy}."
-msgstr "Tenere uno strumento consumato fino a 40 di durabilità o meno. Il doppio delle probabilità se {jinx} o {handy."
+msgstr "Tenere uno strumento consumato fino a 40 di durabilità o meno. Il doppio delle probabilità se {jinx} o {handy}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:108
 msgid "Holding a tool worn down to 50 durability or less. Twice as likely if {handy}."
