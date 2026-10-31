@@ -10908,7 +10908,7 @@ msgstr "Державна винагорода"
 #. placeholder {0}: costMultiplier(effects.orderCostMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:291
 msgid "National orders cost {0}"
-msgstr "Вартість державних наказів"
+msgstr "Вартість державних наказів {0}"
 
 #. placeholder {0}: costMultiplier(effects.coreOrderCostMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:308
