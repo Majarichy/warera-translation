@@ -7133,7 +7133,7 @@ msgstr "Редагувати наказ підрозділу"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:281
 msgid "Edit name"
-msgstr "Редагувати ім'я"
+msgstr "Редагувати назву"
 
 #: src/components/_social/poll/PollEditorModal.tsx:177
 msgid "Edit poll"
