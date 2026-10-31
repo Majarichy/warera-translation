@@ -14032,8 +14032,6 @@ msgstr "Buscar países..."
 msgid "Search Gerald's desk"
 msgstr "Registrar el escritorio de Gerald"
 
-Te parece mejor "Buscar" que registrar? creo que habíamos traducido eventos erlacionados antes"
-
 #: src/components/_other/shop/SkinPackModal.tsx:234
 msgid "Search recipient username..."
 msgstr "Buscar nombre de usuario del destinatario..."
