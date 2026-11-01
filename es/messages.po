@@ -426,7 +426,7 @@ msgstr "{count, plural, one {<0>Mejora tus habilidades <1/> vez</0>} other {<2>M
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "{count, plural, one {<0>Work <1/> time in your companies</0>} other {<2>Work <3/> times in your companies</2>}}"
-msgstr "{count, plural, one {<0>Trabaja <1/> vez en tus empresas</0>} other {<2>Trabaja <3/> veces en tus emresas</2>}}"
+msgstr "{count, plural, one {<0>Trabaja <1/> vez en tus empresas</0>} other {<2>Trabaja <3/> veces en tus empresas</2>}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:171
 msgid "{days, plural, one {# day of their wage} other {# days of their wage}}"
@@ -1135,7 +1135,7 @@ msgstr "{gender, select, male {{name} no se olvidará que has mantenido tu palab
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1147
 msgid "{gender, select, male {{name} will not start work until a bowl of green grapes, only green, is waiting at his station.} female {{name} will not start work until a bowl of green grapes, only green, is waiting at her station.} other {{name} will not start work until a bowl of green grapes, only green, is waiting at their station.}}"
-msgstr "{gender, select, male {{name} no empezara a trabajar hasta que un tazon de uvas verdes, solo verdes, lo este esperando en su puesto.} female {{name} no empezara a trabajar hasta que un tazon de uvas verdes, solo verdes, la este esperando en su puesto.} other {{name} no empezara a trabajar hasta que un tazon de uvas verdes, solo verdes, le este esperando en su puesto..}}"
+msgstr "{gender, select, male {{name} no empezará a trabajar hasta que un tazón de uvas verdes, solo verdes, lo esté esperando en su puesto.} female {{name} no empezará a trabajar hasta que un tazón de uvas verdes, solo verdes, la esté esperando en su puesto.} other {{name} no empezará a trabajar hasta que un tazón de uvas verdes, solo verdes, le esté esperando en su puesto.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3193
 msgid "{gender, select, male {{name} wins by a nose. Your bet pays double.} female {{name} wins by a nose. Your bet pays double.} other {{name} wins by a nose. Your bet pays double.}}"
@@ -1187,7 +1187,7 @@ msgstr "{gender, select, male {Deslizan una nota por abajo de la pueta del talle
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1713
 msgid "{gender, select, male {A pigeon has moved into the rafters. {name} has named it General Coo and insists it outranks you.} female {A pigeon has moved into the rafters. {name} has named it General Coo and insists it outranks you.} other {A pigeon has moved into the rafters. {name} has named it General Coo and insists it outranks you.}}"
-msgstr "{gender, select, male {Una paloma se instalo en las vigas. {name} la nombro General Coo y insiste que tiene un rango superior al tuyo.} female {Una paloma se instalo en las vigas. {name} la nombro General Coo y insiste que tiene un rango superior al tuyo.} other {Una paloma se instalo en las vigas. {name} la nombro General Coo y insiste que tiene un rango superior al tuyo.}}"
+msgstr "{gender, select, male {Una paloma se instaló en las vigas. {name} la nombró General Coo e insiste que tiene un rango superior al tuyo.} female {Una paloma se instaló en las vigas. {name} la nombró General Coo e insiste que tiene un rango superior al tuyo.} other {Una paloma se instaló en las vigas. {name} la nombró General Coo e insiste que tiene un rango superior al tuyo.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:425
 msgid "{gender, select, male {A rival firm has offered {name} a job. He has not said yes, but he has not said no either.} female {A rival firm has offered {name} a job. She has not said yes, but she has not said no either.} other {A rival firm has offered {name} a job. They have not said yes, but they have not said no either.}}"
