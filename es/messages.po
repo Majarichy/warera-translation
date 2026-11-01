@@ -11685,7 +11685,7 @@ msgstr "No hay nada en juego. Participa en una batalla en curso para empezar a g
 #: src/components/_economy/employee/employee.frontConfig.tsx:394
 #: src/components/_economy/employee/employee.frontConfig.tsx:412
 msgid "Nothing while alone."
-msgstr ""
+msgstr "Nada cuando está solo."
 
 #: src/pages/notifications.tsx:38
 #: src/pages/user/[userId]/settings.tsx:145
@@ -11698,15 +11698,15 @@ msgstr "Notificaciones"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1855
 msgid "Now everyone is upset about soup."
-msgstr ""
+msgstr "Ahora todos están molestos por la sopa."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1453
 msgid "Now it is spelled wrong differently."
-msgstr ""
+msgstr "Ahora está mal escrito de otra forma."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1374
 msgid "Now there are two of you, and lunch is unbearable."
-msgstr ""
+msgstr "Ahora hay dos como tú, y la hora del almuerzo es insoportable."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:61
 msgid "Now we're talking!"
@@ -11734,7 +11734,7 @@ msgstr "Region ocupada"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:827
 msgid "Odds"
-msgstr ""
+msgstr "Probabilidades"
 
 #: src/components/_political/government/Government.tsx:214
 msgid "of"
@@ -11742,11 +11742,11 @@ msgstr "de"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1801
 msgid "Offer “Senior Worker” instead"
-msgstr ""
+msgstr "Ofrecer «Trabajador Sénior» en su lugar"
 
 #: src/components/_economy/itemOffer/itemOffer.hooks.ts:47
 msgid "Offer withdrawn"
-msgstr ""
+msgstr "Oferta retirada"
 
 #: src/utils/translations.tsx:87
 msgid "Oil"
@@ -11754,7 +11754,7 @@ msgstr "Combustible"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1575
 msgid "Oil the hinge"
-msgstr ""
+msgstr "Engrasar la bisagra"
 
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:236
 msgid "OK"
@@ -11762,7 +11762,7 @@ msgstr "OK"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:472
 msgid "OK, remove them"
-msgstr ""
+msgstr "OK, eliminarlos"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:58
 msgid "Okay hacker, chill"
@@ -11790,27 +11790,27 @@ msgstr "Al fallar el contrato: -1 rep por cada <0/> del presupuesto y -1 rep por
 
 #: src/components/_economy/company/CompanyTags.tsx:79
 msgid "On every employee, before Responsibility"
-msgstr ""
+msgstr "En cada empleado, antes de la Responsabilidad"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:341
 msgid "On fire"
-msgstr ""
+msgstr "En llamas"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2139
 msgid "On strike"
-msgstr ""
+msgstr "En huelga"
 
 #: src/components/_economy/employee/employeeStats.tsx:830
 msgid "Once a day their manager picks one employee: +{happinessBoost} <0>Happiness</0> for {durationHours}h. Boosts stack."
-msgstr ""
+msgstr "Una vez al día, su mánager elige a un empleado: +{happinessBoost} de <0>Felicidad</0> durante {durationHours}h. La bonificación se acumula."
 
 #: src/components/_layout/loadingTips.tsx:258
 msgid "Once every {freeTravelHomeCooldownHours}h, travelling back to your home region is free."
-msgstr ""
+msgstr "Cada {freeTravelHomeCooldownHours}h, viajar de vuelta a tu región hogar es gratis."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:649
 msgid "Once per employee"
-msgstr ""
+msgstr "Una vez por empleado"
 
 #: src/components/_layout/loadingTips.tsx:492
 msgid "One account per player. Multi-accounting can get you permanently banned."
@@ -11818,11 +11818,11 @@ msgstr "Una cuenta por jugador. Las multi cuentas serán baneadas permanentement
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3818
 msgid "One prank goes too far. {name} and {partnerName} are sworn enemies now."
-msgstr ""
+msgstr "Una broma va demasiado lejos. {name} y {partnerName} ahora son enemigos jurados."
 
 #: src/components/_political/govType/govType.frontConfig.tsx:77
 msgid "One ruler, fast decisions"
-msgstr ""
+msgstr "Un solo gobernante, decisiones rápidas"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:70
 msgid "One step away from legendary..."
@@ -11841,44 +11841,44 @@ msgstr "Solo el {0}% de los jugadores activos alcanzó el nivel {1} en este hito
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:501
 msgid "Only a {claustrophobe}."
-msgstr ""
+msgstr "Solo {claustrophobe}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:268
 msgid "Only a {creatureOfHabit}."
-msgstr ""
+msgstr "Solo {creatureOfHabit}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:155
 msgid "Only a {gambler}."
-msgstr ""
+msgstr "Solo {gambler}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:497
 msgid "Only a {jinx}."
-msgstr ""
+msgstr "Solo {jinx}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:264
 msgid "Only a {modest}."
-msgstr ""
+msgstr "Solo {modest}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:553
 msgid "Only a {recruiter}."
-msgstr ""
+msgstr "Solo {recruiter}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:260
 msgid "Only a {stockpiler}."
-msgstr ""
+msgstr "Solo {stockpiler}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:505
 msgid "Only an {earlyBloomer}."
-msgstr ""
+msgstr "Solo {earlyBloomer}."
 
 #: src/components/_social/poll/PollCard.tsx:232
 msgid "Only citizens of <0/> can vote."
-msgstr ""
+msgstr "Solo pueden votar los ciudadanos de <0/>."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:461
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:121
 msgid "Only ever from an office romance."
-msgstr ""
+msgstr "Solo se obtiene de un romance de oficina."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:164
 msgid "Only MU owners and commanders can register the unit"
@@ -11886,11 +11886,11 @@ msgstr "Solo los propietarios y los comandantes de las MU pueden registrar la un
 
 #: src/components/_social/poll/PollEditorModal.tsx:262
 msgid "Only players who are already citizens when the poll starts can vote."
-msgstr ""
+msgstr "Solo pueden votar los jugadores que ya son ciudadanos cuando comienza la encuesta."
 
 #: src/components/_social/poll/PollCard.tsx:244
 msgid "Only players who were already citizens of <0/> when the poll started can vote."
-msgstr ""
+msgstr "Solo pueden votar los jugadores que ya eran ciudadanos de <0/> cuando comenzó la encuesta."
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:56
 msgid "Only supporters can see their spending and income breakdown."
@@ -11959,7 +11959,7 @@ msgstr "Abrir múltiples <0>Cajas</0> al mismo tiempo"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3644
 msgid "Open the bag"
-msgstr ""
+msgstr "Abrir la bolsa"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:550
 msgid "Open the chat"
@@ -11995,7 +11995,7 @@ msgstr "o"
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:236
 msgid "Or swap with"
-msgstr ""
+msgstr "O intercambiar con"
 
 #: src/components/_military/order/BattleOrderTags.tsx:28
 msgid "Order"
@@ -12003,7 +12003,7 @@ msgstr "Orden"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3307
 msgid "Order a crate for everyone"
-msgstr ""
+msgstr "Encargar una caja para todos"
 
 #: src/components/_military/order/BattleOrderActions.tsx:49
 msgid "Order disabled successfully!"
@@ -12011,7 +12011,7 @@ msgstr "¡Orden desactivada éxitosamente!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:273
 msgid "Order the tool put back together"
-msgstr ""
+msgstr "Ordenar que reparen la herramienta"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:83
 msgid "Orders"
@@ -12033,7 +12033,7 @@ msgstr "Órdenes de <0/>"
 #. placeholder {0}: costMultiplier(effects.allyOrderCostMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:318
 msgid "Orders on allies' and pact partners' battles cost {0}"
-msgstr ""
+msgstr "Las órdenes en batallas de aliados y miembros del pacto cuestan {0}"
 
 #: src/components/_political/map/MapMenu.tsx:460
 msgid "Origin"
@@ -12048,7 +12048,7 @@ msgstr "Otros"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:383
 msgid "Out of Health?"
-msgstr ""
+msgstr "¿Sin Salud?"
 
 #: src/components/_political/allianceLaw/AllianceLaw.tsx:72
 #: src/components/_political/law/Law.tsx:78
@@ -12066,11 +12066,11 @@ msgstr "Desbordamiento:"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2676
 msgid "Overheard at the bar"
-msgstr ""
+msgstr "Escuchado en el bar"
 
 #: src/components/_layout/LayoutOptions.tsx:120
 msgid "Overseas frontiers"
-msgstr ""
+msgstr "Fronteras de ultramar"
 
 #: src/components/_military/war/WarHeader.tsx:79
 msgid "Overview"
@@ -12078,11 +12078,11 @@ msgstr "Resumen"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:271
 msgid "Overwrite with current"
-msgstr ""
+msgstr "Sobrescribir con la actual"
 
 #: src/components/_political/govType/govType.frontConfig.tsx:53
 msgid "Own country first, no alliance"
-msgstr ""
+msgstr "Primero el país propio, sin alianzas"
 
 #: src/components/_other/shop/SkinPackItem.tsx:126
 msgid "Owned"
