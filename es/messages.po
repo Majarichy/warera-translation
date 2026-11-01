@@ -10716,7 +10716,7 @@ msgstr "Mover y recoger"
 #. placeholder {0}: target.name
 #: src/components/_economy/manager/MoveManagerModal.tsx:193
 msgid "Move <0/> into {0}? They keep their pay and what they have earned, and can resign straight afterwards."
-msgstr "¿Mover a <0/> a {0}? Conserva su sueldo y lo que ha ganado, y puede renunciar justo después."
+msgstr "¿Mover a <0/> a {0}? Conservan su sueldo y lo que han ganado, y pueden renunciar justo después."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:723
 msgid "Move a company to another region"
@@ -11462,7 +11462,7 @@ msgstr "Ninguna región tiene un impuesto de empleados más bajo que tu país."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1928
 msgid "No romance on the clock"
-msgstr "No hay romance en horario laboral"
+msgstr "Nada de romances en horas de trabajo"
 
 #: src/components/_economy/employee/EmployeeTraitBadge.tsx:102
 msgid "No session left: <0/>"
@@ -11663,7 +11663,7 @@ msgstr "no se puede usar en esta empresa"
 
 #: src/components/_economy/employee/EmployeeToolSlot.tsx:232
 msgid "Not usable in this company"
-msgstr "No se puede usar en esta empresa""
+msgstr "No se puede usar en esta empresa"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2791
 msgid "Notes on an arm"
