@@ -2799,7 +2799,7 @@ msgstr "<0>+1</0> لإحدى الإحصائيات كل 10 أيام في الشر
 #. placeholder {0}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:287
 msgid "<0>+100%</0> and <1>{0}</1> when working alone"
-msgstr "<0>+100%</0> و<1>{0}</1> عند العمل بمفردك"
+msgstr "<0>+100%</0> و<1>{0}</1> عند العمل بمفرده"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:432
 msgid "<0>+15%</0> alongside their friend"
@@ -7180,7 +7180,7 @@ msgstr "تعديل استطلاع الرأي"
 
 #: src/components/_economy/manager/ManagerOfferDropdown.tsx:40
 msgid "Edit position"
-msgstr "تعديل الموقع"
+msgstr "تعديل المنصب"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:95
 msgid "Edit resistance focus"
@@ -7337,7 +7337,7 @@ msgstr "يمتلك الموظفون خصائص تُغيّر من طريقة عم
 
 #: src/components/_layout/loadingTips.tsx:389
 msgid "Employees get +{specializationPerDay}% production for every day spent on the same good, up to +{specializationMax}%."
-msgstr "يزداد إنتاج الموظفين بنسبة +{specializationPerDay}% عن كل يوم يقضونه في الشركة نفسها لإنتاج السلعة نفسها، حتى +{specializationMax}%."
+msgstr "يزداد إنتاج الموظفين بنسبة +{specializationPerDay}% عن كل يوم يقضونه في الشركة  لإنتاج السلعة نفسها، حتى +{specializationMax}%."
 
 #: src/pages/region/[regionId]/index.tsx:169
 msgid "Empty"
@@ -11187,7 +11187,7 @@ msgstr "واحدة جميلة"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:385
 msgid "Night classes"
-msgstr "الأقسام الليلية"
+msgstr "دروس ليلية"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1814
 msgid "No"
@@ -12717,7 +12717,7 @@ msgstr "الهيبة"
 
 #: src/components/_user/user/Level.tsx:183
 msgid "Prestige to drop levels and re-activate your XP bonus."
-msgstr "نفّذ الهيبة لإنقاص مستواك وإعادة تفعيل مكافأة الخبرة."
+msgstr "نفّذ الهيبة لإنقاص مستواك وإعادة تفعيل مكافأة الخبرة 50%"
 
 #: src/components/_user/user/SkillValue.tsx:82
 msgid "Prestige:"
@@ -13705,7 +13705,7 @@ msgstr "إعادة سحب المهمة"
 #: src/components/_economy/employee/WorkforceReorganize.tsx:311
 #: src/components/_user/user/UserSkills.tsx:333
 msgid "Reset"
-msgstr "إعادة تعيين المهارات"
+msgstr "إعادة تعيين"
 
 #: src/components/_user/auth/ConnectFromModal.tsx:319
 msgid "Reset CAPTCHA"
@@ -14028,7 +14028,7 @@ msgstr "حفظ"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:187
 msgid "Save a build and reload it anytime. If you don't have enough skill points, the build is scaled down proportionally to fit."
-msgstr "احفظ إعدادًا للبناء وأعد تحميله في أي وقت. إذا لم تكن لديك نقاط مهارة كافية، فسيُخفّض البناء تناسبيًا ليتناسب معها."
+msgstr "احفظ إعدادات المهارات وأعد تحميلها في أي وقت. إذا لم تكن لديك نقاط مهارة كافية، فـسوف تخفض المهارات تناسبيًا ليتناسب معها."
 
 #: src/components/_user/user/SkillPresetsModal.tsx:212
 msgid "Save current"
@@ -14275,7 +14275,7 @@ msgstr "إرسال أموال إلى دولة أخرى, ضريبة الورق ا
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3422
 msgid "Send them back"
-msgstr "أعِدهم إلى الخلف"
+msgstr "أعِدهم"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:370
 msgid "Send them home to rest"
@@ -15414,11 +15414,11 @@ msgstr "يخرج ابن العم وهو يدخن قليلًا ويتمتع بس�
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:76
 msgid "the coworker"
-msgstr "العامل"
+msgstr "زميل في العمل"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:325
 msgid "The coworker"
-msgstr "العامل"
+msgstr "زميل في العمل"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2440
 msgid "The coworkers spend the day recruiting each other instead of working."
@@ -16018,7 +16018,7 @@ msgstr "لا يضم نوع حكومة هذه الدولة وزراء أو مجل
 
 #: src/components/_political/government/Government.tsx:81
 msgid "This country's government type has no ministers, only a president and vice president. The president takes over the ministers' powers."
-msgstr ".حكومة هذه البلدان ليس لديها وزارات، فقط الرئيس و نائب الرئيس، الرئيس هو من يستولي على الوزارات"
+msgstr ".لا يضم هذا النوع من الحكومة  وزارات او برلمان، فقط الرئيس و نائب الرئيس، الرئيس هو من يستولي على الوزارات"
 
 #: src/components/_political/map/MapLibreErrorBoundary.tsx:66
 msgid "This device can't display the map"
@@ -17504,7 +17504,7 @@ msgstr "انسحاب"
 
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:60
 msgid "Withdraw all"
-msgstr "سحب الكل"
+msgstr "سحب كل العروض"
 
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:55
 msgid "Withdraw all your offers?"
@@ -17613,7 +17613,7 @@ msgstr "يكلف العمل في شركتك <0>{energyCostPerAction}</0>، وي�
 
 #: src/components/_economy/employee/EmployeeModal.tsx:194
 msgid "Works alone"
-msgstr "العمل وحيدا"
+msgstr "يعمل بمفرده"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:145
 msgid "World"
@@ -18271,7 +18271,7 @@ msgstr "طلبك الحالي"
 
 #: src/components/_economy/manager/ManagerOfferList.tsx:97
 msgid "Your current position"
-msgstr "موقعك الحالي"
+msgstr "منصبك الحالي"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1897
 msgid "Your daily missions have been reset! Complete them to earn rewards."
@@ -18283,7 +18283,7 @@ msgstr "بريدك الإلكتروني"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:143
 msgid "Your employee's stats"
-msgstr "الحالة الخاصة لعمالك"
+msgstr "خصائص عمالك"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:163
 msgid "Your employee's traits"
