@@ -357,7 +357,7 @@ msgstr "{count, plural, one {<0>Contribuir a resistencia <1/> vez</0>} other {<2
 
 #: src/components/_user/mission/mission.frontConfig.tsx:289
 msgid "{count, plural, one {<0>Craft <1/> item</0>} other {<2>Craft <3/> items</2>}}"
-msgstr "{count, plural, one {<0>Fabricar <1/> equipamiento</0>} other {<2>Fabricar <3/> equipamientos</2>}}"
+msgstr "{count, plural, one {<0>Fabrica <1/> equipamiento</0>} other {<2>Fabrica <3/> equipamientos</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:926
 msgid "{count, plural, one {<0>Cross <1/> region on the map</0>} other {<2>Cross <3/> regions on the map</2>}}"
@@ -397,7 +397,7 @@ msgstr "{count, plural, one {<0>Da Me Gusta a <1/> mensaje</0>} other {<2>Da Me 
 
 #: src/components/_user/mission/mission.frontConfig.tsx:475
 msgid "{count, plural, one {<0>Loot <1/> item on battlefield</0>} other {<2>Loot <3/> items on battlefield</2>}}"
-msgstr "{count, plural, one {<0>Saquea <1/> objeto en el campo de batalla</0>} other {<2>Saquea <3/> objetos en el campo de batalla</2>}}"
+msgstr "{count, plural, one {<0>Recolecta <1/> objeto en el campo de batalla</0>} other {<2>Recolecta <3/> objetos en el campo de batalla</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:330
 msgid "{count, plural, one {<0>Participate in <1/> battle</0>} other {<2>Participate in <3/> battles</2>}}"
@@ -1086,7 +1086,7 @@ msgstr "{gender, select, male {{name} habla sobre ello, y no va a escribir otra.
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2291
 msgid "{gender, select, male {{name} talks so fast that the inspector signs off just to leave.} female {{name} talks so fast that the inspector signs off just to leave.} other {{name} talks so fast that the inspector signs off just to leave.}}"
-msgstr "{gender, select, male {{name} habla tan rapido que el inspector firma solo para irse.} female {{name} habla tan rapido que el inspector firma solo para irse.} other {{name} habla tan rapido que el inspector firma solo para irse.}}"
+msgstr "{gender, select, male {{name} habla tan rápido que el inspector firma solo para irse.} female {{name} habla tan rápido que el inspector firma solo para irse.} other {{name} habla tan rápido que el inspector firma solo para irse.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:811
 msgid "{gender, select, male {{name} thanks you, and retires anyway.} female {{name} thanks you, and retires anyway.} other {{name} thanks you, and retires anyway.}}"
@@ -6615,7 +6615,7 @@ msgstr "Realiza <0/> en batallas"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:199
 msgid "Deal <0/> on country/mu orders"
-msgstr "Realiza <0/> en ordenes de país y UM"
+msgstr "Realiza <0/> en órdenes de país y UM"
 
 #: src/components/_user/user/MilitaryRank.tsx:97
 msgid "Deal <0>damages</0> in battles to climb the ranks!"
@@ -11823,7 +11823,7 @@ msgstr "No está en ninguna alianza"
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2838
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2896
 msgid "Not now"
-msgstr "No ahora"
+msgstr "Ahora no"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:820
 msgid "Not now, ask again in {retirementStayYears, plural, one {# year} other {# years}}"
@@ -16123,25 +16123,25 @@ msgstr "El tiempo inicia cuando el artículo es publicado."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1585
 msgid "The tool is officially uncursed, and the exorcist fixed the squeak too. There is a certificate."
-msgstr ""
+msgstr "La herramienta está oficialmente libre de la maldición, y el exorcista también arregló el chirrido. Hay un certificado."
 
 #. placeholder {0}: source?.name
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:178
 msgid "The tool of {coworker} does not fit {0}: it goes back to your inventory."
-msgstr ""
+msgstr "La herramienta de {coworker} no encaja en {0}: vuelve a tu inventario."
 
 #. placeholder {0}: target.name
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:169
 msgid "The tool of {who} does not fit {0}: it goes back to your inventory."
-msgstr ""
+msgstr "La herramienta de {who} no encaja en {0}: vuelve a tu inventario."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:620
 msgid "The toolbox goes in the stores. They found it, and they will not let you forget it."
-msgstr "La caja de herramientas va en el almacen. La encontraron, y no te van a dejar olvidarlo."
+msgstr "La caja de herramientas va en el almacén. La encontraron, y no te van a dejar olvidarlo."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:268
 msgid "The toolbox helped only halfway: the tool is better, not new."
-msgstr "La caja de herramientas ayudo a medias: la herramienta es mejor, no nueva."
+msgstr "La caja de herramientas ayudó a medias: la herramienta es mejor, no nueva."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1559
 msgid "The tournament has ended for your team <0/>. Check the results!"
@@ -16149,7 +16149,7 @@ msgstr "El torneo ha terminado para tu equipo <0/>. ¡Revisa los resultados!"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2693
 msgid "The trick works for everyone. The whole shift runs faster."
-msgstr "El truco funciona para todos. La jornada entera va mas rapido."
+msgstr "El truco funciona para todos. La jornada entera va más rapido."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:705
 msgid "The trip settles something: the homesickness is gone."
@@ -16173,19 +16173,19 @@ msgstr "Carrera de camionetas"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3198
 msgid "The van wins. So does the driver, who took your bet."
-msgstr "La camioneta gana. Tambien el conductor, que tomo tu apuesta."
+msgstr "La camioneta gana. También el conductor, que tomó tu apuesta."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1880
 msgid "The wall is taller now."
-msgstr "El muro es mas alto ahora."
+msgstr "El muro es más alto ahora."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1851
 msgid "The whole lunchroom is united in outrage against you. For a few days, everyone gets along."
-msgstr "El comedor se unio indignado en tu contra. Por unos dias, todos se llevan bien."
+msgstr "El comedor se unio indignado en tu contra. Por unos días, todos se llevan bien."
 
 #: src/components/_economy/employee/RecruitModal.tsx:198
 msgid "The whole shortlist is replaced every day at 00:00 UTC. Hiring only refills the slot you hired from."
-msgstr "La lista completa de candidato se renueva todos los dias a las 00:00 UTC. Contratar solo renueva el espacio del que contrataste"
+msgstr "La lista completa de candidato se renueva todos los días a las 00:00 UTC. Contratar solo renueva el espacio del que contrataste"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1673
 msgid "The winning ticket"
@@ -16193,11 +16193,11 @@ msgstr "El ticket ganador"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:643
 msgid "The workshop has a cat now, and everyone is in a better mood."
-msgstr "El taller tiene un gato ahora, y todos estan con mejor animo."
+msgstr "El taller tiene un gato ahora, y todos están con mejor ánimo."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3919
 msgid "The workshop is a jungle now. Everyone loves it, and nobody can find the stapler."
-msgstr "El taller se convirtio en una jungla. Le encanta todos, y nadie puede encontrar la grapadora."
+msgstr "El taller se convirtió en una jungla. Les encanta a todos, y nadie puede encontrar la grapadora."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:336
 msgid "Their coworkers"
@@ -16217,7 +16217,7 @@ msgstr "Su rendimiento: cada {OUTPUT_DIVISOR} de Producción acumula un punto de
 
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:338
 msgid "Their tool does not fit there: it goes back to your inventory."
-msgstr ""
+msgstr "Su herramienta no encaja allí: vuelve a tu inventario."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3397
 msgid "There is no desk. Everyone now suspects everyone of being Gerald."
@@ -16411,7 +16411,7 @@ msgstr "Esta ley requiere al menos {minActiveCitizen} ciudadanos activos (de niv
 
 #: src/components/_political/election/CongressPartyListModal.tsx:82
 msgid "This list is empty"
-msgstr ""
+msgstr "Esta lista está vacía"
 
 #. placeholder {0}: cooldownDays ?? 0
 #: src/components/_political/government/Government.tsx:224
@@ -16420,7 +16420,7 @@ msgstr "Este miembro no podrá ser nominado de nuevo durante {0, plural, one {# 
 
 #: src/components/_political/government/Ministers.tsx:159
 msgid "This minister won't be able to be nominated again for {cooldownDays, plural, one {# day} other {# days}}."
-msgstr ""
+msgstr "Este ministro no podrá volver a ser nominado durante {cooldownDays, plural, one {# día} other {# días}}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:629
 msgid "This no longer applies: someone it was about is gone."
